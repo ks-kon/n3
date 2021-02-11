@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout << "change B" << std::endl;
+	std::cout << "change A" << std::endl;
 	return EXIT_SUCCESS;
 }
